@@ -1,0 +1,22 @@
+{
+  "name": "exmadew-glass-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "framer-motion": "^10.12.16",
+    "next": "13.4.4",
+    "postcss": "^8.4.24",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-tsparticles": "^2.9.3",
+    "tsparticles": "^2.11.0",
+    "tailwindcss": "^3.5.0",
+    "clsx": "^1.2.1"
+  }
+}
